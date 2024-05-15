@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lv2JNf8Gf/aKDJLTsfMRAXXEHU2u6c4YMRgCs9eRVBYrbGfttZ+5D+yeAf28XJgt9OJ8ub27Aa9l9vov7rmFAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mauricio\\OneDrive - SANCON\\Área de Trabalho\\Programa2\\ScreenSound\\ScreenSound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mauricio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Mauricio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Mauricio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Mauricio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\Mauricio\OneDrive - SANCON\Área de Trabalho\Programa2\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
