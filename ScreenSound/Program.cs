@@ -1,12 +1,9 @@
 ﻿using ScreenSound.Menus;
 using ScreenSound.Modelos;
-
-Banda ira = new("Ira");
+using OpenAI_API;
 
 Banda beatles = new("The Beatles");
-
 Dictionary<string, Banda> bandasRegistradas = new();
-bandasRegistradas.Add(ira.Nome, ira);
 bandasRegistradas.Add(beatles.Nome, beatles);
 
 Dictionary<int, Menu> opcoes = new();
@@ -51,8 +48,9 @@ void ExibirOpcoesDoMenu()
     {
         Menu menuASerExibido = opcoes[opcaoEscolhidaNumerica];
         menuASerExibido.Executar(bandasRegistradas);
-        if(opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
-    } else
+        if (opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
+    }
+    else
     {
         Console.WriteLine("Opção Inválida!");
         ExibirOpcoesDoMenu();
